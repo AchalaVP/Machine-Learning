@@ -1,7 +1,7 @@
 #  Machine Learning Repository
 
 
-##### Welcome to my Machine Learning repository! This repository is dedicated to storing all the machine learning codes and projects that I practice and execute as a beginner in the exciting world of data science and artificial intelligence.
+##### Welcome to my Machine Learning repository! This repository is dedicated to storing all the machine learning codes and projects that I practice and execute as a beginner 
 
 ## About
 
